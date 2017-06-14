@@ -1,4 +1,4 @@
-Idea from [leetcode][trie-leetcode]
+Idea from [LeetCode][trie-leetcode]
 
 Each trie node can only contains 'a'-'z' characters. So we can use a small array to store the character.
 
